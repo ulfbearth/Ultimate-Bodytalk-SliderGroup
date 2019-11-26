@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderPresets>
+    <Preset name="TBOS-BT2-ZeroSliders" set="TBOS-BodyTalk-V2">
+        <Group name="Vanilla + DLCs Outfits"/>
+        <Group name="TBOS-BT2"/>
+        <SetSlider name="Erection" size="big" value="0"/>
+        <SetSlider name="BTAbDefinition" size="big" value="0"/>
+        <SetSlider name="BTBack" size="big" value="0"/>
+        <SetSlider name="BTBackArch" size="big" value="0"/>
+        <SetSlider name="BTBallSize" size="big" value="0"/>
+        <SetSlider name="BTBiceps" size="big" value="0"/>
+        <SetSlider name="BTButt" size="big" value="0"/>
+        <SetSlider name="BTButtWidth" size="big" value="0"/>
+        <SetSlider name="BTCalves" size="big" value="0"/>
+        <SetSlider name="BTChest" size="big" value="0"/>
+        <SetSlider name="BTChestSmoothing" size="big" value="0"/>
+        <SetSlider name="BTFootSize" size="big" value="0"/>
+        <SetSlider name="BTHips-In" size="big" value="0"/>
+        <SetSlider name="BTNippleSize" size="big" value="0"/>
+        <SetSlider name="BTPectorals" size="big" value="0"/>
+        <SetSlider name="BTRibcage" size="big" value="0"/>
+        <SetSlider name="BTShoulders" size="big" value="0"/>
+        <SetSlider name="BTStomach" size="big" value="0"/>
+        <SetSlider name="BTStomachFat" size="big" value="0"/>
+        <SetSlider name="BTStomachSmooth" size="big" value="0"/>
+        <SetSlider name="BTThigh" size="big" value="0"/>
+        <SetSlider name="BTToeSmaller" size="big" value="0"/>
+        <SetSlider name="BTTraps" size="big" value="0"/>
+        <SetSlider name="BTWaist-In" size="big" value="0"/>
+        <SetSlider name="BTWaist-Smoothing" size="big" value="0"/>
+        <SetSlider name="Balls" size="big" value="0"/>
+    </Preset>
+</SliderPresets>

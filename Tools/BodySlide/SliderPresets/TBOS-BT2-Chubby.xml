@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderPresets>
+    <Preset name="TBOS-BT2-Chubby" set="TBOS-BodyTalk-V2">
+        <Group name="Vanilla + DLCs Outfits"/>
+        <Group name="TBOS-BT2"/>
+        <SetSlider name="Erection" size="big" value="0"/>
+        <SetSlider name="BT2AdonisBelt" size="big" value="15"/>
+        <SetSlider name="BTAMPecAdjust" size="big" value="100"/>
+        <SetSlider name="BTAMShoulderTweaks" size="big" value="38"/>
+        <SetSlider name="BTAMWaistAdust" size="big" value="47"/>
+        <SetSlider name="BTARYAYDA" size="big" value="29"/>
+        <SetSlider name="BTAbDefinition" size="big" value="0"/>
+        <SetSlider name="BTAryaydaMoreMuscular" size="big" value="23"/>
+        <SetSlider name="BTBack" size="big" value="45"/>
+        <SetSlider name="BTBallSize" size="big" value="50"/>
+        <SetSlider name="BTBiceps" size="big" value="41"/>
+        <SetSlider name="BTButt" size="big" value="58"/>
+        <SetSlider name="BTButtWidth" size="big" value="0"/>
+        <SetSlider name="BTCalves" size="big" value="65"/>
+        <SetSlider name="BTChest" size="big" value="0"/>
+        <SetSlider name="BTChestSmoothing" size="big" value="58"/>
+        <SetSlider name="BTChubbyArm" size="big" value="100"/>
+        <SetSlider name="BTChubbyLeg" size="big" value="39"/>
+        <SetSlider name="BTElbowAdjust" size="big" value="50"/>
+        <SetSlider name="BTFootSize" size="big" value="38"/>
+        <SetSlider name="BTForearms" size="big" value="65"/>
+        <SetSlider name="BTKneeAdust" size="big" value="23"/>
+        <SetSlider name="BTNippleSize" size="big" value="50"/>
+        <SetSlider name="BTPectorals" size="big" value="42"/>
+        <SetSlider name="BTRibcage" size="big" value="0"/>
+        <SetSlider name="BTShinSize" size="big" value="20"/>
+        <SetSlider name="BTShoulders" size="big" value="71"/>
+        <SetSlider name="BTStomach" size="big" value="0"/>
+        <SetSlider name="BTStomachFat" size="big" value="130"/>
+        <SetSlider name="BTStomachSmooth" size="big" value="19"/>
+        <SetSlider name="BTThigh" size="big" value="44"/>
+        <SetSlider name="BTToeSmaller" size="big" value="15"/>
+        <SetSlider name="BTTraps" size="big" value="61"/>
+        <SetSlider name="BTWaist-Smoothing" size="big" value="0"/>
+        <SetSlider name="Balls" size="big" value="51"/>
+        <SetSlider name="Hips" size="big" value="100"/>
+        <SetSlider name="Penis Width" size="big" value="100"/>
+        <SetSlider name="TipShape" size="big" value="100"/>
+    </Preset>
+</SliderPresets>
