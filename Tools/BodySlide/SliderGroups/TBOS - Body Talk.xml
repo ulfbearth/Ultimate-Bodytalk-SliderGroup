@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <SliderGroups>
     <Group name="TBOS-BT2">
+	    <Member name="TBOS-OmenSweater-Male"/>
 	    <Member name="TBOS-Sweatpants-BT2"/>
 	    <Member name="Siphon - Ammo [BodyTalk2]"/>
 	    <Member name="Siphon - Backpack [BodyTalk2]"/>
